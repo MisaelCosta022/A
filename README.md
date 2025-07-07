@@ -1,1 +1,65 @@
-# mkmods-site
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Termos de Serviço - MK Mods</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #eee;
+      line-height: 1.6;
+      padding: 30px;
+    }
+    h1, h2 {
+      color: #4caf50;
+    }
+    a {
+      color: #4caf50;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background-color: #1e1e1e;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Termos de Serviço - MK Mods</h1>
+    
+    <p>Bem-vindo ao bot <strong>MK Mods</strong>! Ao utilizar nossos serviços, você concorda com os seguintes termos:</p>
+
+    <h2>1. Uso do Bot</h2>
+    <p>O MK Mods é um bot de automação para lojas no Discord. Você deve usá-lo de maneira responsável, seguindo as regras do Discord e as leis locais.</p>
+
+    <h2>2. Responsabilidade do Usuário</h2>
+    <p>Você é totalmente responsável pelas ações realizadas através do bot, incluindo vendas, envios de mensagens e transações.</p>
+
+    <h2>3. Proibições</h2>
+    <ul>
+      <li>É proibido utilizar o bot para atividades ilegais ou que violem os Termos de Uso do Discord.</li>
+      <li>Não é permitido modificar, clonar ou distribuir o bot sem permissão.</li>
+    </ul>
+
+    <h2>4. Privacidade</h2>
+    <p>O MK Mods pode coletar informações básicas, como IDs de servidores, para funcionamento adequado. Nenhum dado pessoal será compartilhado com terceiros sem sua permissão.</p>
+
+    <h2>5. Suporte</h2>
+    <p>Para suporte ou dúvidas, entre em contato através do nosso servidor oficial do Discord: <a href="#">[Link do Servidor]</a>.</p>
+
+    <h2>6. Alterações nos Termos</h2>
+    <p>Estes termos podem ser alterados a qualquer momento, sem aviso prévio. É responsabilidade do usuário revisar esta página periodicamente.</p>
+
+    <p><strong>Última atualização:</strong> 07/07/2025</p>
+  </div>
+</body>
+</html>
